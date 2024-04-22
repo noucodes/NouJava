@@ -14,7 +14,7 @@ public class NouJava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hiiiiiiii!");
+        System.out.println("Hello World!");
     }
     
 }
